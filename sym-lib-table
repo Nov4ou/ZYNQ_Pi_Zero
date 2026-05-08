@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "Xilinx7") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/Xilinx7.kicad_sym") (options "") (descr ""))
 	(lib (name "MT41K256M16TW-107_P") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/MT41K256M16TW-107_P.kicad_sym") (options "") (descr ""))
+	(lib (name "W25Q256FVEI") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/W25Q256FVEI.kicad_sym") (options "") (descr ""))
 )

@@ -416,7 +416,7 @@
         "uuid": "239d02af-7f9c-469f-b86b-abe2695ec54e"
       }
     ],
-    "used_designators": "#PWR1-13,R1-6,C1-4,U1-3",
+    "used_designators": "D1,C7,R9-15,#PWR24-31,U3",
     "variants": []
   },
   "sheets": [
@@ -427,6 +427,10 @@
     [
       "afd0ebab-b977-43bf-be0d-1d4d19746c98",
       "DDR3"
+    ],
+    [
+      "9ace7e57-0edb-4233-b0fb-9af82e1483eb",
+      "BANK0"
     ]
   ],
   "text_variables": {},

@@ -2289,8 +2289,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 0.762 1.27 0)
+			(property "Reference" "U1"
+				(at 27.94 -33.0199 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2301,7 +2301,7 @@
 				)
 			)
 			(property "Value" "xc7z010clg400"
-				(at 37.846 -107.442 0)
+				(at 27.94 -35.5599 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -12701,23 +12701,25 @@
 		(fields_autoplaced yes)
 		(uuid "3b671e9c-af50-47bb-a5f6-ab08a25702ad")
 		(property "Reference" "U1"
-			(at 265.43 74.93 0)
+			(at 248.92 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "xc7z010clg400"
-			(at 265.43 77.47 0)
+			(at 248.92 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
