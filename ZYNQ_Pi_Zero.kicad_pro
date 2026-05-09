@@ -416,7 +416,7 @@
         "uuid": "239d02af-7f9c-469f-b86b-abe2695ec54e"
       }
     ],
-    "used_designators": "D1,C7,R9-15,#PWR24-31,U3",
+    "used_designators": "C20-21,FB2,#PWR59-66",
     "variants": []
   },
   "sheets": [
@@ -431,6 +431,10 @@
     [
       "9ace7e57-0edb-4233-b0fb-9af82e1483eb",
       "BANK0"
+    ],
+    [
+      "b8b5e561-a673-46e4-af77-d8de9f96431b",
+      "POWER"
     ]
   ],
   "text_variables": {},

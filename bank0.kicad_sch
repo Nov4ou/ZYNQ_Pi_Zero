@@ -895,8 +895,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U1"
-				(at 27.94 -33.0199 0)
+			(property "Reference" "U"
+				(at 0.762 1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -907,7 +907,7 @@
 				)
 			)
 			(property "Value" "xc7z010clg400"
-				(at 27.94 -35.5599 0)
+				(at 37.846 -107.442 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -10664,7 +10664,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
 			(at 74.93 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -12192,7 +12192,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
 			(at 36.83 92.71 0)
 			(hide yes)
 			(show_name no)
