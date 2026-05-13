@@ -416,7 +416,7 @@
         "uuid": "239d02af-7f9c-469f-b86b-abe2695ec54e"
       }
     ],
-    "used_designators": "C20-21,FB2,#PWR59-66",
+    "used_designators": "R25-42,U8-9,F1-2,Q1-3,D2-3,#PWR67-80,J1",
     "variants": []
   },
   "sheets": [
@@ -435,6 +435,10 @@
     [
       "b8b5e561-a673-46e4-af77-d8de9f96431b",
       "POWER"
+    ],
+    [
+      "f586420b-5cc7-4575-8235-d9222bbcf8e6",
+      "HDMI"
     ]
   ],
   "text_variables": {},
