@@ -14249,7 +14249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 24.13 153.67 0)
 			(hide yes)
 			(show_name no)

@@ -7517,7 +7517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 215.9 316.23 0)
 			(hide yes)
 			(show_name no)
@@ -8807,7 +8807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 139.7 307.34 0)
 			(hide yes)
 			(show_name no)
@@ -10097,7 +10097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 82.55 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -11387,7 +11387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 325.12 510.54 0)
 			(hide yes)
 			(show_name no)
