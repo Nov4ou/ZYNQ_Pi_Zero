@@ -9190,7 +9190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "087df50c-5688-4477-8a59-d10e7d1638af")
-		(property "Reference" "R702"
+		(property "Reference" "R701"
 			(at 59.69 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9252,7 +9252,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/e2d55b2b-db37-4002-990c-3c8d9a3ba028"
-					(reference "R702")
+					(reference "R701")
 					(unit 1)
 				)
 			)
@@ -9269,7 +9269,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3035cb99-c5ce-4885-9fea-433afc5d0176")
-		(property "Reference" "#PWR0704"
+		(property "Reference" "#PWR0702"
 			(at 198.12 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9329,7 +9329,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/e2d55b2b-db37-4002-990c-3c8d9a3ba028"
-					(reference "#PWR0704")
+					(reference "#PWR0702")
 					(unit 1)
 				)
 			)
@@ -9426,7 +9426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "353fbc59-4419-4918-9efe-2df087811fbf")
-		(property "Reference" "R703"
+		(property "Reference" "R702"
 			(at 200.66 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9490,7 +9490,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/e2d55b2b-db37-4002-990c-3c8d9a3ba028"
-					(reference "R703")
+					(reference "R702")
 					(unit 1)
 				)
 			)
@@ -10957,7 +10957,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c548b90-6799-4d49-9a12-7d804e295b17")
-		(property "Reference" "R704"
+		(property "Reference" "R703"
 			(at 200.66 142.2399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11021,7 +11021,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/e2d55b2b-db37-4002-990c-3c8d9a3ba028"
-					(reference "R704")
+					(reference "R703")
 					(unit 1)
 				)
 			)
@@ -11038,7 +11038,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9975a3ae-38e9-469f-8e76-1bb1a378c088")
-		(property "Reference" "R701"
+		(property "Reference" "R704"
 			(at 216.662 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11100,7 +11100,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/e2d55b2b-db37-4002-990c-3c8d9a3ba028"
-					(reference "R701")
+					(reference "R704")
 					(unit 1)
 				)
 			)
@@ -12406,7 +12406,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3dfa45e-59c2-4dd9-a793-aaf34359f1ce")
-		(property "Reference" "#PWR0702"
+		(property "Reference" "#PWR0704"
 			(at 210.82 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -12466,7 +12466,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/e2d55b2b-db37-4002-990c-3c8d9a3ba028"
-					(reference "#PWR0702")
+					(reference "#PWR0704")
 					(unit 1)
 				)
 			)

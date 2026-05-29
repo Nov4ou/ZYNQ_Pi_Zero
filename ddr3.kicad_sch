@@ -10013,10 +10013,28 @@
 		)
 	)
 	(junction
+		(at 142.24 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21717a45-a1b4-410a-8ae1-f9dcbd3026eb")
+	)
+	(junction
+		(at 134.62 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37412669-545f-4c1f-9c47-0b371229730e")
+	)
+	(junction
 		(at 127 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a5dcdf2-3e84-4ca7-bf0e-7349dc753af3")
+	)
+	(junction
+		(at 157.48 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c81c9ec-a93a-4473-98c5-44cb53021c7d")
 	)
 	(junction
 		(at 173.99 124.46)
@@ -10025,10 +10043,28 @@
 		(uuid "3ed82e2c-49e3-4f58-a431-27988adee7d8")
 	)
 	(junction
+		(at 111.76 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4105accc-a400-4dc6-9522-7f58b74ea3b6")
+	)
+	(junction
+		(at 96.52 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d7a6437-12d3-43e4-b16e-445cf56c1dab")
+	)
+	(junction
 		(at 191.77 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5037d261-1a4a-487a-8628-77a03e862339")
+	)
+	(junction
+		(at 119.38 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6040a289-12c6-4923-9ad6-f918b8677521")
 	)
 	(junction
 		(at 210.82 152.4)
@@ -10049,6 +10085,12 @@
 		(uuid "88e619de-8091-4412-a163-901a65059006")
 	)
 	(junction
+		(at 104.14 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94873d94-6f08-4ab4-a9cb-755e05dfaf5c")
+	)
+	(junction
 		(at 198.12 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10059,6 +10101,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5d3e90c-4b19-44a6-85c0-97fb1a70e8b7")
+	)
+	(junction
+		(at 127 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abeaf1a0-eb1d-43d5-a1aa-0e462e866f9c")
+	)
+	(junction
+		(at 118.11 191.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b229f6af-a918-4f2a-87fa-b2e9e59e7f78")
+	)
+	(junction
+		(at 149.86 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1f80992-0728-4d24-899a-ca91996bd37d")
 	)
 	(junction
 		(at 191.77 152.4)
@@ -10356,7 +10416,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 138.43) (xy 220.98 138.43)
+			(xy 212.09 138.43) (xy 220.98 138.43)
 		)
 		(stroke
 			(width 0)
@@ -10373,6 +10433,16 @@
 			(type default)
 		)
 		(uuid "2704d4af-449f-44f3-8410-b26bf7a44ae4")
+	)
+	(wire
+		(pts
+			(xy 118.11 191.77) (xy 113.03 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28a606c3-1eea-45a2-ada3-d3d53c1dc10e")
 	)
 	(wire
 		(pts
@@ -10406,6 +10476,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 41.91) (xy 134.62 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2abbb78b-ed05-4258-94f4-197bb3a1a651")
+	)
+	(wire
+		(pts
 			(xy 52.07 125.73) (xy 62.23 125.73)
 		)
 		(stroke
@@ -10436,6 +10516,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 33.02) (xy 142.24 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30048db2-9207-4100-958f-d3d498527c67")
+	)
+	(wire
+		(pts
 			(xy 173.99 168.91) (xy 173.99 171.45)
 		)
 		(stroke
@@ -10443,6 +10533,16 @@
 			(type default)
 		)
 		(uuid "3080821d-767b-427d-a85b-379cc16e6506")
+	)
+	(wire
+		(pts
+			(xy 96.52 31.75) (xy 96.52 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "326098fb-8679-4652-b62b-c63686293c35")
 	)
 	(wire
 		(pts
@@ -10476,6 +10576,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 33.02) (xy 96.52 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36a8ef10-907c-4bc9-91ed-a7e422e5fc3f")
+	)
+	(wire
+		(pts
 			(xy 173.99 171.45) (xy 220.98 171.45)
 		)
 		(stroke
@@ -10483,6 +10593,26 @@
 			(type default)
 		)
 		(uuid "36fbcae0-1e3b-41cf-a0f7-95afc8d4b03f")
+	)
+	(wire
+		(pts
+			(xy 165.1 34.29) (xy 165.1 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "398189c4-6573-47c8-a49c-2c97181fd957")
+	)
+	(wire
+		(pts
+			(xy 111.76 34.29) (xy 111.76 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d8d5de9-aeab-42ad-8d8f-842e70e3ca5f")
 	)
 	(wire
 		(pts
@@ -10513,6 +10643,16 @@
 			(type default)
 		)
 		(uuid "41226314-1b91-4056-89ff-dd27aee7b16a")
+	)
+	(wire
+		(pts
+			(xy 111.76 33.02) (xy 104.14 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4138a2d4-11c9-4a41-90be-1d33add14358")
 	)
 	(wire
 		(pts
@@ -10576,6 +10716,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 33.02) (xy 157.48 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d174fdb-394d-435b-95c7-2f05110b4c32")
+	)
+	(wire
+		(pts
 			(xy 113.03 151.13) (xy 123.19 151.13)
 		)
 		(stroke
@@ -10583,6 +10733,16 @@
 			(type default)
 		)
 		(uuid "4fbc5610-1b7a-4c4b-9047-20bff5d9f21e")
+	)
+	(wire
+		(pts
+			(xy 157.48 33.02) (xy 149.86 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "509d8039-7ef2-43d5-abeb-ef34cbf73943")
 	)
 	(wire
 		(pts
@@ -10603,6 +10763,36 @@
 			(type default)
 		)
 		(uuid "59b32529-84b8-4487-b507-b8e7a3106837")
+	)
+	(wire
+		(pts
+			(xy 104.14 41.91) (xy 104.14 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5be1adb9-6e34-42db-8f05-6d08482eb6e7")
+	)
+	(wire
+		(pts
+			(xy 134.62 33.02) (xy 127 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c55a899-6584-44b5-8c13-7abfddb2cfa7")
+	)
+	(wire
+		(pts
+			(xy 142.24 41.91) (xy 142.24 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e75336b-a82d-416e-bf79-0172c0662874")
 	)
 	(wire
 		(pts
@@ -10756,6 +10946,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 41.91) (xy 96.52 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f722be-5540-4997-b263-19a5bf814a8a")
+	)
+	(wire
+		(pts
 			(xy 118.11 85.09) (xy 118.11 82.55)
 		)
 		(stroke
@@ -10766,6 +10966,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 195.58) (xy 118.11 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7978fb33-2d05-4cee-bb06-0b2f67c3d0dc")
+	)
+	(wire
+		(pts
 			(xy 212.09 120.65) (xy 220.98 120.65)
 		)
 		(stroke
@@ -10773,6 +10983,16 @@
 			(type default)
 		)
 		(uuid "7a472a18-ecb5-4b87-8169-99244fb7fb5b")
+	)
+	(wire
+		(pts
+			(xy 165.1 41.91) (xy 165.1 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bd17f89-d7f9-421b-9943-dd2c37c5ef4e")
 	)
 	(wire
 		(pts
@@ -10883,6 +11103,16 @@
 			(type default)
 		)
 		(uuid "898d9e24-00e7-4ddf-90a6-39428cca1817")
+	)
+	(wire
+		(pts
+			(xy 113.03 189.23) (xy 118.11 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a5f56e7-c042-44c0-8d06-df71969892c1")
 	)
 	(wire
 		(pts
@@ -11056,6 +11286,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 41.91) (xy 111.76 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bfe8e05-a63b-466c-908f-3ec07598bf69")
+	)
+	(wire
+		(pts
 			(xy 113.03 133.35) (xy 124.46 133.35)
 		)
 		(stroke
@@ -11073,6 +11313,16 @@
 			(type default)
 		)
 		(uuid "9e038887-4951-4bf4-a644-751654460da3")
+	)
+	(wire
+		(pts
+			(xy 134.62 34.29) (xy 134.62 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1b9aad7-4469-45e8-8e8d-362077bb1d92")
 	)
 	(wire
 		(pts
@@ -11166,6 +11416,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 33.02) (xy 134.62 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac32706e-7c50-4756-9bf6-dfcce6ddf575")
+	)
+	(wire
+		(pts
 			(xy 135.89 78.74) (xy 135.89 80.01)
 		)
 		(stroke
@@ -11173,6 +11433,16 @@
 			(type default)
 		)
 		(uuid "ac589f2d-8c97-4ffd-873a-82e00c8eea7d")
+	)
+	(wire
+		(pts
+			(xy 127 41.91) (xy 127 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad4d4a53-6f07-4538-ab7c-4d548e634545")
 	)
 	(wire
 		(pts
@@ -11226,6 +11496,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 34.29) (xy 127 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0b4a435-f4be-4cd3-b121-cc8aee8689b4")
+	)
+	(wire
+		(pts
 			(xy 203.2 182.88) (xy 220.98 182.88)
 		)
 		(stroke
@@ -11256,6 +11536,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 34.29) (xy 149.86 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3bf30d1-a6fe-42dd-8a58-59e1b86b55ee")
+	)
+	(wire
+		(pts
 			(xy 212.09 107.95) (xy 220.98 107.95)
 		)
 		(stroke
@@ -11283,6 +11573,16 @@
 			(type default)
 		)
 		(uuid "b713180f-a561-454d-b023-3ae11875a75c")
+	)
+	(wire
+		(pts
+			(xy 157.48 41.91) (xy 157.48 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfa9d19b-e20d-46ad-94bf-3723a69494cf")
 	)
 	(wire
 		(pts
@@ -11386,6 +11686,36 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 34.29) (xy 104.14 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc30bf83-fa04-4b19-b9a5-ce8b94d1985f")
+	)
+	(wire
+		(pts
+			(xy 149.86 41.91) (xy 149.86 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc4d2180-a4d9-4d4a-a73e-e56a5fec59bd")
+	)
+	(wire
+		(pts
+			(xy 157.48 34.29) (xy 157.48 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccb5c7f7-dc2e-4378-9df7-edb7cd27e189")
+	)
+	(wire
+		(pts
 			(xy 127 80.01) (xy 127 69.85)
 		)
 		(stroke
@@ -11416,6 +11746,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 34.29) (xy 119.38 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8f0c871-353b-4c31-aeb3-ce5effeb8316")
+	)
+	(wire
+		(pts
 			(xy 52.07 107.95) (xy 62.23 107.95)
 		)
 		(stroke
@@ -11423,6 +11763,16 @@
 			(type default)
 		)
 		(uuid "d91ad8e2-f929-47c7-8fc1-009e34da2269")
+	)
+	(wire
+		(pts
+			(xy 119.38 41.91) (xy 119.38 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9dc1167-017f-4a8e-b5a3-dc7b700ca9fe")
 	)
 	(wire
 		(pts
@@ -11486,6 +11836,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 34.29) (xy 142.24 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed0b4377-f68c-403e-a33b-62ba9eeb1949")
+	)
+	(wire
+		(pts
 			(xy 309.88 148.59) (xy 320.04 148.59)
 		)
 		(stroke
@@ -11496,6 +11856,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 33.02) (xy 104.14 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f124a03d-d63e-4964-ac8f-1f679404576c")
+	)
+	(wire
+		(pts
 			(xy 173.99 121.92) (xy 173.99 124.46)
 		)
 		(stroke
@@ -11503,6 +11873,16 @@
 			(type default)
 		)
 		(uuid "f2075f06-2489-44cc-812b-25070c92a7d0")
+	)
+	(wire
+		(pts
+			(xy 119.38 33.02) (xy 111.76 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3ecc62c-bb8d-4134-820f-13be9cc69294")
 	)
 	(wire
 		(pts
@@ -11556,6 +11936,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 189.23) (xy 118.11 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbd3af10-089b-4576-91ef-966aad90e76a")
+	)
+	(wire
+		(pts
 			(xy 113.03 168.91) (xy 121.92 168.91)
 		)
 		(stroke
@@ -11583,6 +11973,16 @@
 			(type default)
 		)
 		(uuid "ff6a5ca8-0d90-4176-ae5c-145ac90f6167")
+	)
+	(wire
+		(pts
+			(xy 127 33.02) (xy 119.38 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff8d5260-c37b-497b-9580-8bcf101b50c9")
 	)
 	(label "DDR_BA1"
 		(at 52.07 118.11 0)
@@ -11784,6 +12184,26 @@
 		)
 		(uuid "39e00709-4324-4f1c-ac00-326f812128f6")
 	)
+	(label "DDR_~{CS}"
+		(at 212.09 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cc78f56-da99-4cb1-9e93-b2a58a8521c4")
+	)
+	(label "DDR_~{RAS}"
+		(at 212.09 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3df8e308-3986-4d3b-a1d1-b522864c0c5f")
+	)
 	(label "DDR_D1"
 		(at 121.92 176.53 180)
 		(effects
@@ -11923,16 +12343,6 @@
 			(justify left bottom)
 		)
 		(uuid "5ab45335-6400-442e-9e58-61bbc077ca3d")
-	)
-	(label "DDR_CAS"
-		(at 212.09 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b6b5699-24e3-451d-9922-ba2af1cfbf2c")
 	)
 	(label "DDR_BA2"
 		(at 52.07 120.65 0)
@@ -12184,6 +12594,16 @@
 		)
 		(uuid "94bef478-8707-4305-9c3b-3f957c7cecb7")
 	)
+	(label "DDR_~{RESET}"
+		(at 209.55 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97691be5-7963-4a02-8f63-4850f9ff8732")
+	)
 	(label "DDR_D3"
 		(at 318.77 173.99 180)
 		(effects
@@ -12193,16 +12613,6 @@
 			(justify right bottom)
 		)
 		(uuid "99ecc39e-2fe1-4e51-ac89-7013f9d7fba3")
-	)
-	(label "DDR_RESET"
-		(at 209.55 162.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9a5565c7-08e6-4851-b072-f16d20545087")
 	)
 	(label "DDR_D5"
 		(at 318.77 168.91 180)
@@ -12314,16 +12724,6 @@
 		)
 		(uuid "b70db115-c3aa-4f6e-8247-d159ce7dc809")
 	)
-	(label "DDR_RAS"
-		(at 212.09 179.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b8333502-a17d-4c1b-8c61-630df96192ff")
-	)
 	(label "DDR_A6"
 		(at 52.07 163.83 0)
 		(effects
@@ -12343,6 +12743,16 @@
 			(justify right bottom)
 		)
 		(uuid "b9c2f7b2-312a-49c3-8631-3225ba291432")
+	)
+	(label "DDR_~{WE}"
+		(at 212.09 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ba804412-1bd4-4d63-b8d4-bc27cd1b793e")
 	)
 	(label "DDR_D0"
 		(at 318.77 181.61 180)
@@ -12464,15 +12874,15 @@
 		)
 		(uuid "cd851c0a-b978-495b-ba1a-6d93cef2d9ff")
 	)
-	(label "DDR_WE"
-		(at 212.09 176.53 0)
+	(label "DDR_~{CAS}"
+		(at 212.09 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "d5fa11af-1108-48c5-8a62-70be7b43f5fb")
+		(uuid "d4ddbd2e-71cf-4865-b4f7-e3e7a7fc8d84")
 	)
 	(label "DDR_D4"
 		(at 121.92 168.91 180)
@@ -12564,16 +12974,6 @@
 		)
 		(uuid "f8fec03f-e7be-47cd-bf20-f3f0bbec4987")
 	)
-	(label "DDR_S0"
-		(at 213.36 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "faca1c56-1dc9-4016-a6c5-8c298bf18a95")
-	)
 	(label "DDR_D15"
 		(at 320.04 143.51 180)
 		(effects
@@ -12595,7 +12995,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0af85c89-4c09-497d-bfa9-3fb82aeddc41")
-		(property "Reference" "#PWR0205"
+		(property "Reference" "#PWR0211"
 			(at 135.89 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -12655,7 +13055,161 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0205")
+					(reference "#PWR0211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 134.62 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0c10c3b6-4f65-4072-ab1d-b7fbba7ed844")
+		(property "Reference" "#PWR0221"
+			(at 134.62 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f6a240ad-c94d-443a-b5f1-36f711bf407d")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0221")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 96.52 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0fb7620b-e732-427e-8499-3d2f8bd76727")
+		(property "Reference" "#PWR0202"
+			(at 96.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 96.52 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d814eaf8-b1c8-4859-99f9-43efe00f3a1b")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -12672,7 +13226,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a68feba-df5c-4cf3-9ded-67df63ec83f8")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0217"
 			(at 191.77 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -12732,7 +13286,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0211")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -12749,7 +13303,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25e50fe7-3c9b-4880-9850-e41081fd51f2")
-		(property "Reference" "#PWR0204"
+		(property "Reference" "#PWR0210"
 			(at 135.89 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12809,7 +13363,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0204")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -12826,7 +13380,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26d139d6-0275-403b-8800-9a4f461a135a")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0218"
 			(at 193.04 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -12886,7 +13440,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0212")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -12903,7 +13457,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39e775d1-8486-4b80-88f2-6b18cb9af2f0")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0216"
 			(at 191.77 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -12963,7 +13517,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0210")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -14339,6 +14893,406 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 142.24 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3dd509aa-ba09-4ae2-b05b-a3bd18ba13b3")
+		(property "Reference" "#PWR0222"
+			(at 142.24 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 142.24 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 142.24 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dc5c4522-0bbf-4452-a34c-52feae0c0ae6")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0222")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 104.14 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4a9d6a4e-5139-4d54-8ae7-3c8652235313")
+		(property "Reference" "C202"
+			(at 103.632 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 103.632 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 103.1748 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 104.14 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "51119abb-6dff-4324-a20a-636ad4c95570")
+		)
+		(pin "1"
+			(uuid "fbcfdd03-b2a1-4539-b654-bfffd777416a")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 96.52 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "537d2ed5-45af-487e-940f-8e2812525f20")
+		(property "Reference" "#PWR0201"
+			(at 96.52 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+1V5"
+			(at 96.52 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 96.52 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f28f99a6-9816-4c1e-8789-307d34fe63c0")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 127 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "563600bd-d667-4058-ac47-66bb184e196d")
+		(property "Reference" "C209"
+			(at 126.492 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 126.492 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 126.0348 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 127 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c6867114-2559-412f-a13b-fae0e1af9f14")
+		)
+		(pin "1"
+			(uuid "d5608646-cad4-440a-a561-4e50f499fd26")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C209")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 165.1 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56efb992-268f-4a7f-874a-7b90281f52ad")
+		(property "Reference" "C214"
+			(at 164.592 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 164.592 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 164.1348 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 165.1 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9d45d0e5-00aa-4ebb-ada6-9e49629b034e")
+		)
+		(pin "1"
+			(uuid "e1193c80-c7f0-4206-8c46-26ef6d95b27f")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 191.77 157.48 0)
 		(mirror y)
@@ -14350,7 +15304,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f7b6373-41c9-49c2-b9d2-94e61fc24a6c")
-		(property "Reference" "C203"
+		(property "Reference" "C207"
 			(at 187.96 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14414,7 +15368,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C203")
+					(reference "C207")
 					(unit 1)
 				)
 			)
@@ -14454,7 +15408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 172.212 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -14513,7 +15467,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61409fe4-236f-47a5-b15c-650b99a781d9")
-		(property "Reference" "#PWR0202"
+		(property "Reference" "#PWR0206"
 			(at 118.11 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -14573,7 +15527,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0202")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -14590,7 +15544,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7502a3ba-b4fb-4b72-8772-ff743a14fd67")
-		(property "Reference" "#PWR0207"
+		(property "Reference" "#PWR0213"
 			(at 173.99 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -14650,7 +15604,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0207")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -14668,7 +15622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "767ed9f7-d280-4639-a5b1-f0f2715ff347")
-		(property "Reference" "C202"
+		(property "Reference" "C206"
 			(at 139.7 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14690,7 +15644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 136.8552 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -14732,7 +15686,89 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C202")
+					(reference "C206")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 149.86 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7f79b1ec-35b2-401d-b912-5151ff7c0523")
+		(property "Reference" "C212"
+			(at 149.352 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 149.352 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 148.8948 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 149.86 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ffce698f-a31a-473c-a568-40e1c79cf5ad")
+		)
+		(pin "1"
+			(uuid "dfa933b4-c72c-4cb8-ac21-42ed9b608f27")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C212")
 					(unit 1)
 				)
 			)
@@ -14750,7 +15786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83edd24e-4272-41a0-afe4-3c60e154265d")
-		(property "Reference" "C204"
+		(property "Reference" "C208"
 			(at 201.93 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14772,7 +15808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.0852 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -14814,7 +15850,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C204")
+					(reference "C208")
 					(unit 1)
 				)
 			)
@@ -14854,7 +15890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 116.332 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -14903,6 +15939,160 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 118.11 195.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8c8a3d87-4f9f-45af-a800-cffe2bd94a6d")
+		(property "Reference" "#PWR0207"
+			(at 118.11 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 118.11 199.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 118.11 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3d80d294-58be-42ba-bfbe-afb69ef39862")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0207")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 127 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8e3140ad-b9a8-490e-9038-afd32aec2327")
+		(property "Reference" "#PWR0220"
+			(at 127 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4b32f4fe-420b-4533-b873-aaf2bf1e1436")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0220")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 118.11 69.85 0)
 		(unit 1)
@@ -14913,7 +16103,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94211a90-a4dd-4f29-aa0d-ec89b9e1fa1f")
-		(property "Reference" "#PWR0201"
+		(property "Reference" "#PWR0205"
 			(at 118.11 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -14973,7 +16163,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0201")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -14990,7 +16180,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95321ac2-746a-4ef1-856b-5133ab2728cf")
-		(property "Reference" "#PWR0208"
+		(property "Reference" "#PWR0214"
 			(at 173.99 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -15050,7 +16240,171 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0208")
+					(reference "#PWR0214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 119.38 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9972949e-e5c3-4f2f-8ab0-1daae6b44bad")
+		(property "Reference" "C204"
+			(at 118.872 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 118.872 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 118.4148 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 119.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cb8b05ff-1d63-4dfa-8f70-875f55f3ec81")
+		)
+		(pin "1"
+			(uuid "b74b63f6-88db-4e43-8cc0-74789dad6a1b")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C204")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 111.76 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a46e34c5-0def-47b7-833e-ab0845b636b2")
+		(property "Reference" "C203"
+			(at 111.252 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 111.252 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 110.7948 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 111.76 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "46085112-45d1-4402-8968-8d75fe0c53b3")
+		)
+		(pin "1"
+			(uuid "b5a5b815-cf73-44ee-a862-606bfd9c2d90")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C203")
 					(unit 1)
 				)
 			)
@@ -15586,7 +16940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 172.212 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -15645,7 +16999,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af6b7bba-c4d0-41de-bd2d-daf58edd992f")
-		(property "Reference" "#PWR0206"
+		(property "Reference" "#PWR0212"
 			(at 173.99 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -15705,7 +17059,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0206")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -15723,7 +17077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b00062b2-ed6f-4ee2-bd40-ed25eded0ef7")
-		(property "Reference" "C201"
+		(property "Reference" "C205"
 			(at 139.7 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15745,7 +17099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 136.8552 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -15787,7 +17141,243 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C201")
+					(reference "C205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 157.48 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bd15739c-5c64-4bd1-91d3-94cb7a3f8931")
+		(property "Reference" "C213"
+			(at 156.972 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 156.972 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 156.5148 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 157.48 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "455a001d-5609-45c6-8eb7-661f1aa9eadf")
+		)
+		(pin "1"
+			(uuid "3d3d5819-bd05-40a1-80c9-e58f7019d321")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C213")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 157.48 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cf25148f-1a6c-4b87-9311-3e8cc25ea2be")
+		(property "Reference" "#PWR0224"
+			(at 157.48 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ef20eaa1-958e-42ac-a3f2-938b3262431f")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0224")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 111.76 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d04ad115-442e-4af1-ad18-6c58cb8abad1")
+		(property "Reference" "#PWR0204"
+			(at 111.76 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 111.76 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 111.76 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8405ef18-77fe-4afc-a02e-4014d4ba1150")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -15804,7 +17394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d39a9892-bb2d-4798-9cdb-1dfb05cf14f1")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0219"
 			(at 203.2 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -15864,7 +17454,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0213")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -15881,7 +17471,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d548080b-9e1a-42e3-b286-d29e5eca64a9")
-		(property "Reference" "#PWR0203"
+		(property "Reference" "#PWR0209"
 			(at 127 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -15941,7 +17531,248 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0203")
+					(reference "#PWR0209")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 142.24 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "da239280-9d28-4e4e-aed4-1288e60893e4")
+		(property "Reference" "C211"
+			(at 141.732 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 141.732 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 141.2748 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 142.24 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "332d8a8e-41ae-44e8-9e99-c88067101285")
+		)
+		(pin "1"
+			(uuid "c1112c8b-92f6-4ad9-9a7f-d95ddb73d959")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 165.1 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dba9d5a5-5806-4929-8fc1-7fde2895c774")
+		(property "Reference" "#PWR0225"
+			(at 165.1 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "81b57c9e-2d0e-47d4-915d-259235663a44")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0225")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 96.52 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ded896d9-b806-468e-86ea-247b91083907")
+		(property "Reference" "C201"
+			(at 96.012 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 96.012 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 95.5548 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 96.52 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "477a83ec-fa82-4d06-aeea-7807e63c4344")
+		)
+		(pin "1"
+			(uuid "1b7b68a0-6da8-4f8c-9cb8-36a67d6fecf0")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -15958,7 +17789,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1945dba-3034-41bf-a8df-fe5ca8073f91")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0215"
 			(at 173.99 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -16018,7 +17849,243 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0209")
+					(reference "#PWR0215")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 149.86 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ec642b41-6121-4cc4-b225-718ffa6de447")
+		(property "Reference" "#PWR0223"
+			(at 149.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 149.86 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a873a2c4-2566-41d9-b9e3-a4afeaed8d68")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0223")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 104.14 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "eee75bdf-ce4c-4bdc-9523-23392aa5086a")
+		(property "Reference" "#PWR0203"
+			(at 104.14 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 104.14 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 104.14 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a38154cc-6813-4a07-a436-ae2bb7b27ad6")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0203")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 134.62 38.1 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f3460587-f565-4f22-8484-7fbca7771abd")
+		(property "Reference" "C210"
+			(at 134.112 35.814 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 134.112 40.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 133.6548 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 134.62 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "90965e89-536c-4e6d-b31b-a6c7236768d8")
+		)
+		(pin "1"
+			(uuid "4aade352-952e-4ca4-8fe0-9d197ae1bafd")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "C210")
 					(unit 1)
 				)
 			)
@@ -16101,6 +18168,83 @@
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
 					(reference "R205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 119.38 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f90f2fe3-8427-4a2e-b5c1-590cd56446b8")
+		(property "Reference" "#PWR0208"
+			(at 119.38 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 119.38 47.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 119.38 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "602c8057-2260-46e3-be21-fd062e4dbfde")
+		)
+		(instances
+			(project "ZYNQ_Pi_Zero"
+				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -16232,14 +18376,6 @@
 		)
 	)
 	(group ""
-		(uuid "940c4695-aafa-4e35-8de5-ff726335f69c")
-		(members "25efc861-3d35-4865-bbe1-ba1a43d2ce1d" "2704d4af-449f-44f3-8410-b26bf7a44ae4"
-			"484371d4-705c-4bb0-a49d-b2b3ddac0aa7" "68b4e188-d94c-4485-a6ce-36d36db9fb82"
-			"81fc71d7-d05b-47f9-8aef-751c206e5f9e" "8fb2f265-4fe6-4add-9c71-ea0c1100a528"
-			"d91ad8e2-f929-47c7-8fc1-009e34da2269" "f0db9cc6-82dc-4877-b489-6cfbaa1008d2"
-		)
-	)
-	(group ""
 		(uuid "a11731b2-55fe-4cf9-9903-3c0ca516c311")
 		(members "0c457127-b30d-46a2-9855-0df6a66d587e" "39e00709-4324-4f1c-ac00-326f812128f6"
 			"58ec4d87-b309-49aa-a56c-b425722d49ae" "62091d93-f167-4b45-8378-3ecce3658904"
@@ -16256,6 +18392,14 @@
 			"d1c7c933-2a1e-4acd-b380-d6bbd7d7586b" "dd5cd6a3-c395-4cf4-ae19-201d98b7eaa8"
 			"e5aaf7e4-0f04-452a-83cc-4d5001b618c5" "ec4e9a17-a276-4562-a378-562f4bd94ac9"
 			"f8fec03f-e7be-47cd-bf20-f3f0bbec4987" "fcaaa52f-8e1d-4fd7-9ef6-f0603ff7a7ed"
+		)
+	)
+	(group ""
+		(uuid "d18c9634-04f1-4e56-b6b4-5d8a01710f44")
+		(members "25efc861-3d35-4865-bbe1-ba1a43d2ce1d" "2704d4af-449f-44f3-8410-b26bf7a44ae4"
+			"484371d4-705c-4bb0-a49d-b2b3ddac0aa7" "68b4e188-d94c-4485-a6ce-36d36db9fb82"
+			"81fc71d7-d05b-47f9-8aef-751c206e5f9e" "8fb2f265-4fe6-4add-9c71-ea0c1100a528"
+			"d91ad8e2-f929-47c7-8fc1-009e34da2269" "f0db9cc6-82dc-4877-b489-6cfbaa1008d2"
 		)
 	)
 	(group ""

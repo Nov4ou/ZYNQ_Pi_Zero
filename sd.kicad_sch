@@ -1753,7 +1753,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07336320-6238-49f7-aff5-ba4f3e110b41")
-		(property "Reference" "#PWR0607"
+		(property "Reference" "#PWR0608"
 			(at 209.55 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -1813,7 +1813,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0607")
+					(reference "#PWR0608")
 					(unit 1)
 				)
 			)
@@ -1830,7 +1830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11d15947-2122-4fdb-97b9-91a2a5029805")
-		(property "Reference" "#PWR0605"
+		(property "Reference" "#PWR0606"
 			(at 201.93 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1890,7 +1890,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0605")
+					(reference "#PWR0606")
 					(unit 1)
 				)
 			)
@@ -1908,7 +1908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "127af5af-2f96-4a3a-936e-bcc0154cde82")
-		(property "Reference" "J602"
+		(property "Reference" "J601"
 			(at 178.435 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1991,7 +1991,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "J602")
+					(reference "J601")
 					(unit 1)
 				)
 			)
@@ -2008,7 +2008,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ce1fa16-dc11-42a0-9e28-3a305cea587d")
-		(property "Reference" "#PWR0608"
+		(property "Reference" "#PWR0609"
 			(at 215.9 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2068,7 +2068,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0608")
+					(reference "#PWR0609")
 					(unit 1)
 				)
 			)
@@ -2243,7 +2243,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3320034d-ca99-49b8-97ae-eb000b5875db")
-		(property "Reference" "#PWR0603"
+		(property "Reference" "#PWR0604"
 			(at 138.43 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2303,7 +2303,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0603")
+					(reference "#PWR0604")
 					(unit 1)
 				)
 			)
@@ -2399,7 +2399,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51358301-af12-4926-b9cb-b7588f96f96a")
-		(property "Reference" "#PWR0604"
+		(property "Reference" "#PWR0605"
 			(at 138.43 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2459,7 +2459,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0604")
+					(reference "#PWR0605")
 					(unit 1)
 				)
 			)
@@ -2476,7 +2476,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "540adafb-8b06-4501-acd3-ba76ee253a19")
-		(property "Reference" "#PWR0602"
+		(property "Reference" "#PWR0603"
 			(at 124.46 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2536,7 +2536,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0602")
+					(reference "#PWR0603")
 					(unit 1)
 				)
 			)
@@ -2576,7 +2576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 216.8652 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2714,7 +2714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2cf97fd-250e-47c5-986c-a747b3bd0d1b")
-		(property "Reference" "#PWR0606"
+		(property "Reference" "#PWR0602"
 			(at 110.49 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2774,7 +2774,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0606")
+					(reference "#PWR0602")
 					(unit 1)
 				)
 			)
@@ -2952,7 +2952,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc86c406-fd8c-48fc-a365-56e4c3dc7db3")
-		(property "Reference" "#PWR0609"
+		(property "Reference" "#PWR0607"
 			(at 209.55 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -3012,7 +3012,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/3cf6dfc2-a0f8-40c2-9f99-77c1321743b1"
-					(reference "#PWR0609")
+					(reference "#PWR0607")
 					(unit 1)
 				)
 			)
