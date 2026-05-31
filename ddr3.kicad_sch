@@ -12015,7 +12015,7 @@
 		(uuid "0d21e79f-f677-4c98-a994-97ae3f5cb71f")
 	)
 	(label "DDR_D12"
-		(at 123.19 148.59 180)
+		(at 123.19 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12025,7 +12025,7 @@
 		(uuid "0ea18aa6-572c-41a7-9b7e-55c13d7ca2b6")
 	)
 	(label "DDR_D5"
-		(at 121.92 166.37 180)
+		(at 121.92 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12145,7 +12145,7 @@
 		(uuid "38102864-9c8c-4f10-8c4f-4f48218886d2")
 	)
 	(label "DDR_D8"
-		(at 123.19 158.75 180)
+		(at 123.19 140.97 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12155,7 +12155,7 @@
 		(uuid "385f4eee-40e1-48d9-b90d-03e44e99d9fe")
 	)
 	(label "DDR_D13"
-		(at 123.19 153.67 180)
+		(at 123.19 156.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12225,7 +12225,7 @@
 		(uuid "4165cc5a-9d52-44ed-ba43-bf0a4f1dfb79")
 	)
 	(label "DDR_D7"
-		(at 121.92 176.53 180)
+		(at 121.92 171.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12285,7 +12285,7 @@
 		(uuid "4bf33b81-93d0-425c-b6fe-e915e3b09333")
 	)
 	(label "DDR_D15"
-		(at 123.19 140.97 180)
+		(at 123.19 158.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12455,7 +12455,7 @@
 		(uuid "75699899-0ef5-4f9f-804d-c971b9156acc")
 	)
 	(label "DDR_D14"
-		(at 123.19 143.51 180)
+		(at 123.19 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12495,7 +12495,7 @@
 		(uuid "858aa66f-55cd-4042-bfb8-65e58c17037a")
 	)
 	(label "DDR_D2"
-		(at 121.92 163.83 180)
+		(at 121.92 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12575,7 +12575,7 @@
 		(uuid "921e6e99-5152-4c0d-a8c5-ad4a85314878")
 	)
 	(label "DDR_D3"
-		(at 121.92 173.99 180)
+		(at 121.92 163.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12625,7 +12625,7 @@
 		(uuid "9b660a36-8a06-4233-b72d-e1b790aa29df")
 	)
 	(label "DDR_D11"
-		(at 123.19 156.21 180)
+		(at 123.19 143.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12665,7 +12665,7 @@
 		(uuid "a1a2843e-f80f-407a-b90b-571683a0c79f")
 	)
 	(label "DDR_D6"
-		(at 121.92 161.29 180)
+		(at 121.92 166.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12885,7 +12885,7 @@
 		(uuid "d4ddbd2e-71cf-4865-b4f7-e3e7a7fc8d84")
 	)
 	(label "DDR_D4"
-		(at 121.92 171.45 180)
+		(at 121.92 161.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18125,7 +18125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 172.212 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -18284,7 +18284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 172.212 165.1 90)
 			(hide yes)
 			(show_name no)

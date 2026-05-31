@@ -552,6 +552,7 @@
         "pcb_color": "rgba(255, 255, 0, 0.502)",
         "priority": 4,
         "schematic_color": "rgb(255, 0, 255)",
+        "track_width": 0.1191,
         "tuning_profile": ""
       },
       {
@@ -571,7 +572,6 @@
         "tuning_profile": ""
       },
       {
-        "diff_pair_width": 0.1509,
         "name": "DDR_DQ1",
         "pcb_color": "rgb(0, 255, 255)",
         "priority": 1,
@@ -586,6 +586,7 @@
         "pcb_color": "rgb(194, 0, 194)",
         "priority": 2,
         "schematic_color": "rgb(255, 0, 255)",
+        "track_width": 0.1191,
         "tuning_profile": ""
       },
       {
@@ -595,6 +596,7 @@
         "pcb_color": "rgb(0, 0, 194)",
         "priority": 0,
         "schematic_color": "rgb(255, 0, 0)",
+        "track_width": 0.1191,
         "tuning_profile": ""
       }
     ],
