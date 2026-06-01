@@ -12025,7 +12025,7 @@
 		(uuid "0ea18aa6-572c-41a7-9b7e-55c13d7ca2b6")
 	)
 	(label "DDR_D5"
-		(at 121.92 176.53 180)
+		(at 121.92 166.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12205,7 +12205,7 @@
 		(uuid "3df8e308-3986-4d3b-a1d1-b522864c0c5f")
 	)
 	(label "DDR_D1"
-		(at 121.92 179.07 180)
+		(at 121.92 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12215,7 +12215,7 @@
 		(uuid "404d1e85-27db-4da8-bfd0-085645dc31cc")
 	)
 	(label "DDR_D0"
-		(at 121.92 168.91 180)
+		(at 121.92 163.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12225,7 +12225,7 @@
 		(uuid "4165cc5a-9d52-44ed-ba43-bf0a4f1dfb79")
 	)
 	(label "DDR_D7"
-		(at 121.92 171.45 180)
+		(at 121.92 161.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12495,7 +12495,7 @@
 		(uuid "858aa66f-55cd-4042-bfb8-65e58c17037a")
 	)
 	(label "DDR_D2"
-		(at 121.92 173.99 180)
+		(at 121.92 179.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12575,7 +12575,7 @@
 		(uuid "921e6e99-5152-4c0d-a8c5-ad4a85314878")
 	)
 	(label "DDR_D3"
-		(at 121.92 163.83 180)
+		(at 121.92 168.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12665,7 +12665,7 @@
 		(uuid "a1a2843e-f80f-407a-b90b-571683a0c79f")
 	)
 	(label "DDR_D6"
-		(at 121.92 166.37 180)
+		(at 121.92 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12885,7 +12885,7 @@
 		(uuid "d4ddbd2e-71cf-4865-b4f7-e3e7a7fc8d84")
 	)
 	(label "DDR_D4"
-		(at 121.92 161.29 180)
+		(at 121.92 171.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
