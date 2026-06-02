@@ -530,6 +530,7 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.11,
         "name": "DDR_ADDR",
         "pcb_color": "rgba(255, 0, 255, 0.502)",
         "priority": 7,
@@ -556,6 +557,7 @@
         "tuning_profile": ""
       },
       {
+        "clearance": 0.11,
         "name": "DDR_CTRL",
         "pcb_color": "rgba(255, 153, 0, 0.502)",
         "priority": 5,
@@ -659,6 +661,10 @@
       {
         "netclass": "DDR_CTRL",
         "pattern": "/DDR3/DDR_ODT"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "/DDR3/PS_DDR_A(0|1|2|3|4|5|6|7|8|9|10|11|12|13|14)"
       }
     ]
   },
@@ -940,7 +946,7 @@
         "uuid": "239d02af-7f9c-469f-b86b-abe2695ec54e"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R207-231",
     "variants": []
   },
   "sheets": [
