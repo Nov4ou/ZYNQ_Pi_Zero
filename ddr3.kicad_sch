@@ -14034,7 +14034,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0af85c89-4c09-497d-bfa9-3fb82aeddc41")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0213"
 			(at 135.89 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -14094,7 +14094,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0211")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -14111,7 +14111,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c10c3b6-4f65-4072-ab1d-b7fbba7ed844")
-		(property "Reference" "#PWR0221"
+		(property "Reference" "#PWR0211"
 			(at 134.62 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -14171,7 +14171,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0221")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -14344,7 +14344,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a68feba-df5c-4cf3-9ded-67df63ec83f8")
-		(property "Reference" "#PWR0217"
+		(property "Reference" "#PWR0224"
 			(at 191.77 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -14404,7 +14404,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0217")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -14500,7 +14500,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25e50fe7-3c9b-4880-9850-e41081fd51f2")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0212"
 			(at 135.89 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -14560,7 +14560,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0210")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -14577,7 +14577,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26d139d6-0275-403b-8800-9a4f461a135a")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR0222"
 			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -14637,7 +14637,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0218")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -14891,7 +14891,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35944a0a-0572-4c37-af84-857d986cbf00")
-		(property "Reference" "R230"
+		(property "Reference" "R229"
 			(at 360.68 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14953,7 +14953,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "R230")
+					(reference "R229")
 					(unit 1)
 				)
 			)
@@ -15049,7 +15049,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39e775d1-8486-4b80-88f2-6b18cb9af2f0")
-		(property "Reference" "#PWR0216"
+		(property "Reference" "#PWR0223"
 			(at 191.77 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -15109,7 +15109,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0216")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -15204,10 +15204,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3b671e9c-af50-47bb-a5f6-ab08a25702ad")
 		(property "Reference" "U101"
-			(at 248.92 113.0299 0)
+			(at 259.588 77.724 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15218,7 +15217,7 @@
 			)
 		)
 		(property "Value" "xc7z010clg400"
-			(at 248.92 115.5699 0)
+			(at 257.302 187.706 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16574,7 +16573,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3dd509aa-ba09-4ae2-b05b-a3bd18ba13b3")
-		(property "Reference" "#PWR0222"
+		(property "Reference" "#PWR0214"
 			(at 142.24 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -16634,7 +16633,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0222")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -16811,7 +16810,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "563600bd-d667-4058-ac47-66bb184e196d")
-		(property "Reference" "C209"
+		(property "Reference" "C205"
 			(at 126.492 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16875,7 +16874,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C209")
+					(reference "C205")
 					(unit 1)
 				)
 			)
@@ -16893,7 +16892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56efb992-268f-4a7f-874a-7b90281f52ad")
-		(property "Reference" "C214"
+		(property "Reference" "C212"
 			(at 164.592 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16957,7 +16956,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C214")
+					(reference "C212")
 					(unit 1)
 				)
 			)
@@ -17054,7 +17053,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f7b6373-41c9-49c2-b9d2-94e61fc24a6c")
-		(property "Reference" "C207"
+		(property "Reference" "C213"
 			(at 187.96 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17076,7 +17075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 190.8048 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -17118,7 +17117,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C207")
+					(reference "C213")
 					(unit 1)
 				)
 			)
@@ -17373,7 +17372,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7502a3ba-b4fb-4b72-8772-ff743a14fd67")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0219"
 			(at 170.18 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -17433,7 +17432,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0213")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -17451,7 +17450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "767ed9f7-d280-4639-a5b1-f0f2715ff347")
-		(property "Reference" "C206"
+		(property "Reference" "C208"
 			(at 139.7 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17515,7 +17514,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C206")
+					(reference "C208")
 					(unit 1)
 				)
 			)
@@ -17612,7 +17611,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f79b1ec-35b2-401d-b912-5151ff7c0523")
-		(property "Reference" "C212"
+		(property "Reference" "C210"
 			(at 149.352 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17676,7 +17675,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C212")
+					(reference "C210")
 					(unit 1)
 				)
 			)
@@ -17773,7 +17772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83edd24e-4272-41a0-afe4-3c60e154265d")
-		(property "Reference" "C208"
+		(property "Reference" "C214"
 			(at 201.93 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17837,7 +17836,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C208")
+					(reference "C214")
 					(unit 1)
 				)
 			)
@@ -18092,7 +18091,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e3140ad-b9a8-490e-9038-afd32aec2327")
-		(property "Reference" "#PWR0220"
+		(property "Reference" "#PWR0209"
 			(at 127 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -18152,7 +18151,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0220")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)
@@ -18246,7 +18245,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95321ac2-746a-4ef1-856b-5133ab2728cf")
-		(property "Reference" "#PWR0214"
+		(property "Reference" "#PWR0220"
 			(at 173.99 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -18306,7 +18305,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0214")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -19144,7 +19143,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af41898c-b030-46b0-b8b3-a712cdccb863")
-		(property "Reference" "R229"
+		(property "Reference" "R228"
 			(at 360.68 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19206,7 +19205,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "R229")
+					(reference "R228")
 					(unit 1)
 				)
 			)
@@ -19223,7 +19222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af6b7bba-c4d0-41de-bd2d-daf58edd992f")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0218"
 			(at 170.18 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -19283,7 +19282,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0212")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -19380,7 +19379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b00062b2-ed6f-4ee2-bd40-ed25eded0ef7")
-		(property "Reference" "C205"
+		(property "Reference" "C207"
 			(at 139.7 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19444,7 +19443,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C205")
+					(reference "C207")
 					(unit 1)
 				)
 			)
@@ -19462,7 +19461,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd15739c-5c64-4bd1-91d3-94cb7a3f8931")
-		(property "Reference" "C213"
+		(property "Reference" "C211"
 			(at 156.972 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19526,7 +19525,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C213")
+					(reference "C211")
 					(unit 1)
 				)
 			)
@@ -19780,7 +19779,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf25148f-1a6c-4b87-9311-3e8cc25ea2be")
-		(property "Reference" "#PWR0224"
+		(property "Reference" "#PWR0216"
 			(at 157.48 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -19840,7 +19839,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0224")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -19934,7 +19933,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d39a9892-bb2d-4798-9cdb-1dfb05cf14f1")
-		(property "Reference" "#PWR0219"
+		(property "Reference" "#PWR0225"
 			(at 191.77 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -19994,7 +19993,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0219")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -20011,7 +20010,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d3bd79d1-9da6-4d40-a708-c7ee42dd5a81")
-		(property "Reference" "R231"
+		(property "Reference" "R230"
 			(at 360.68 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20073,7 +20072,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "R231")
+					(reference "R230")
 					(unit 1)
 				)
 			)
@@ -20090,7 +20089,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d548080b-9e1a-42e3-b286-d29e5eca64a9")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0210"
 			(at 127 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -20150,7 +20149,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0209")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -20168,7 +20167,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da239280-9d28-4e4e-aed4-1288e60893e4")
-		(property "Reference" "C211"
+		(property "Reference" "C209"
 			(at 141.732 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20232,7 +20231,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C211")
+					(reference "C209")
 					(unit 1)
 				)
 			)
@@ -20249,7 +20248,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dba9d5a5-5806-4929-8fc1-7fde2895c774")
-		(property "Reference" "#PWR0225"
+		(property "Reference" "#PWR0217"
 			(at 165.1 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -20309,7 +20308,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0225")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -20566,7 +20565,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1945dba-3034-41bf-a8df-fe5ca8073f91")
-		(property "Reference" "#PWR0215"
+		(property "Reference" "#PWR0221"
 			(at 173.99 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -20626,7 +20625,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0215")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -20722,7 +20721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec642b41-6121-4cc4-b225-718ffa6de447")
-		(property "Reference" "#PWR0223"
+		(property "Reference" "#PWR0215"
 			(at 149.86 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -20782,7 +20781,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "#PWR0223")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -20877,7 +20876,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3460587-f565-4f22-8484-7fbca7771abd")
-		(property "Reference" "C210"
+		(property "Reference" "C206"
 			(at 134.112 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20941,7 +20940,7 @@
 		(instances
 			(project "ZYNQ_Pi_Zero"
 				(path "/239d02af-7f9c-469f-b86b-abe2695ec54e/afd0ebab-b977-43bf-be0d-1d4d19746c98"
-					(reference "C210")
+					(reference "C206")
 					(unit 1)
 				)
 			)
