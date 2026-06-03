@@ -7,4 +7,5 @@
 	(lib (name "TLV62130RGTT") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/TLV62130RGTT.kicad_sym") (options "") (descr ""))
 	(lib (name "CMLB041B-1R0MS") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/CMLB041B-1R0MS.kicad_sym") (options "") (descr ""))
 	(lib (name "SPX3819M5-L-3-3") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/SPX3819M5-L-3-3.kicad_sym") (options "") (descr ""))
+	(lib (name "Osc33.3333MHz") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/Osc33.3333MHz.kicad_sym") (options "") (descr ""))
 )
