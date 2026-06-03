@@ -946,7 +946,7 @@
         "uuid": "239d02af-7f9c-469f-b86b-abe2695ec54e"
       }
     ],
-    "used_designators": "U702,U801,R705-711,R801-805,SW701-703,SW801-802,C702,D701,D801,#PWR705-712,#PWR801-809",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
