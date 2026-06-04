@@ -14293,7 +14293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 101.092 43.18 90)
 			(hide yes)
 			(show_name no)
@@ -14610,7 +14610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 247.142 38.1 90)
 			(hide yes)
 			(show_name no)
@@ -21251,7 +21251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 247.142 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -23691,18 +23691,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Package" "SOT-23-5"
-			(at 144.78 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
 		(property "MPN" "SPX3819M5-L-3-3"
 			(at 144.78 173.99 0)
 			(hide yes)
@@ -24267,7 +24255,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 82.55 44.958 90)
 			(hide yes)
 			(show_name no)
@@ -24751,7 +24739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 95.758 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -25379,7 +25367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 116.332 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -26097,7 +26085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 101.092 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -26256,7 +26244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 116.332 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -26890,7 +26878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 96.012 161.29 90)
 			(hide yes)
 			(show_name no)
