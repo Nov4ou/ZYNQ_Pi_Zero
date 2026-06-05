@@ -1928,7 +1928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3D-SF"
 			(at 207.01 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -2105,7 +2105,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 112.268 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -2184,7 +2184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 116.078 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -2340,7 +2340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 123.698 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -2655,7 +2655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 119.888 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -2893,7 +2893,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 127.508 96.52 90)
 			(hide yes)
 			(show_name no)

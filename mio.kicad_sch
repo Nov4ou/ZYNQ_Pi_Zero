@@ -12768,7 +12768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 222.25 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -15137,6 +15137,13 @@
 					(unit 1)
 				)
 			)
+		)
+	)
+	(group ""
+		(uuid "ab2a0dec-bdb4-4420-bf0a-796481038f25")
+		(members "0bf38251-e84c-4b2e-800d-c983d5ccd16d" "1e83c2ad-b3fd-426c-ad25-351ea102476b"
+			"262f66d1-add9-4908-a9d0-4241472963fd" "9d04b257-7976-4309-94ad-54226bdc34f9"
+			"aa5618dc-010f-4b80-8d05-54ec1b0e4fdf" "ffba7de5-0224-4495-9d96-4e24734c3958"
 		)
 	)
 )

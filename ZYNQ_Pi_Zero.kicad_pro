@@ -549,7 +549,7 @@
         "clearance": 0.11,
         "name": "DDR_ADDR",
         "pcb_color": "rgba(255, 0, 255, 0.502)",
-        "priority": 7,
+        "priority": 8,
         "schematic_color": "rgb(0, 0, 255)",
         "track_width": 0.1509,
         "tuning_profile": ""
@@ -557,7 +557,7 @@
       {
         "name": "DDR_BA",
         "pcb_color": "rgba(0, 255, 255, 0.502)",
-        "priority": 6,
+        "priority": 7,
         "schematic_color": "rgb(255, 255, 0)",
         "track_width": 0.1509,
         "tuning_profile": ""
@@ -567,7 +567,7 @@
         "diff_pair_width": 0.1191,
         "name": "DDR_CLK",
         "pcb_color": "rgba(255, 255, 0, 0.502)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgb(255, 0, 255)",
         "track_width": 0.1191,
         "tuning_profile": ""
@@ -576,7 +576,7 @@
         "clearance": 0.11,
         "name": "DDR_CTRL",
         "pcb_color": "rgba(255, 153, 0, 0.502)",
-        "priority": 5,
+        "priority": 6,
         "schematic_color": "rgb(132, 0, 132)",
         "track_width": 0.1509,
         "tuning_profile": ""
@@ -584,7 +584,7 @@
       {
         "name": "DDR_DQ0",
         "pcb_color": "rgb(0, 255, 0)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(0, 194, 194)",
         "track_width": 0.1509,
         "tuning_profile": ""
@@ -592,7 +592,7 @@
       {
         "name": "DDR_DQ1",
         "pcb_color": "rgb(0, 255, 255)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.1509,
         "tuning_profile": ""
@@ -602,7 +602,7 @@
         "diff_pair_width": 0.1191,
         "name": "DDR_DQS0",
         "pcb_color": "rgb(194, 0, 194)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(255, 0, 255)",
         "track_width": 0.1191,
         "tuning_profile": ""
@@ -612,9 +612,17 @@
         "diff_pair_width": 0.1191,
         "name": "DDR_DQS1",
         "pcb_color": "rgb(0, 0, 194)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.1191,
+        "tuning_profile": ""
+      },
+      {
+        "name": "SD_CARD",
+        "pcb_color": "rgba(0, 0, 194, 0.502)",
+        "priority": 0,
+        "schematic_color": "rgb(0, 194, 0)",
+        "track_width": 0.1509,
         "tuning_profile": ""
       }
     ],
@@ -681,6 +689,10 @@
       {
         "netclass": "DDR_ADDR",
         "pattern": "/DDR3/PS_DDR_A(0|1|2|3|4|5|6|7|8|9|10|11|12|13|14)"
+      },
+      {
+        "netclass": "SD_CARD",
+        "pattern": "SD_(CLK|CMD|DATA0|DATA1|DATA2|DATA3)"
       }
     ]
   },
