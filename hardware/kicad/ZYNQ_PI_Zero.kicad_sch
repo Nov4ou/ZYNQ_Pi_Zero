@@ -9111,6 +9111,52 @@
 		)
 	)
 	(sheet
+		(at 88.9 63.5)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "194bd49b-39b9-439e-9b76-18223c8ed8de")
+		(property "Sheetname" "HDMI"
+			(at 88.9 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hdmi.kicad_sch"
+			(at 88.9 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZYNQ_PI_Zero"
+				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 38.1 63.5)
 		(size 38.1 25.4)
 		(exclude_from_sim no)
@@ -9125,8 +9171,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "18b2acf4-989b-4dd5-963e-62750ed0f0ad")
-		(property "Sheetname" "USB"
+		(uuid "1bef1159-44ce-49a2-b5eb-3fbfd7d799bf")
+		(property "Sheetname" "CONNECTOR"
 			(at 38.1 62.7884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9137,7 +9183,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "usb.kicad_sch"
+		(property "Sheetfile" "connector.kicad_sch"
 			(at 38.1 89.4846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9151,7 +9197,7 @@
 		(instances
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
-					(page "7")
+					(page "5")
 				)
 			)
 		)
@@ -9171,8 +9217,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "194bd49b-39b9-439e-9b76-18223c8ed8de")
-		(property "Sheetname" "HDMI"
+		(uuid "34676407-f8b5-4930-8f88-66270fca9b4e")
+		(property "Sheetname" "SD"
 			(at 139.7 62.7884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9183,7 +9229,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "hdmi.kicad_sch"
+		(property "Sheetfile" "sd.kicad_sch"
 			(at 139.7 89.4846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9197,99 +9243,7 @@
 		(instances
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 88.9 63.5)
-		(size 38.1 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "1bef1159-44ce-49a2-b5eb-3fbfd7d799bf")
-		(property "Sheetname" "CONNECTOR"
-			(at 88.9 62.7884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "connector.kicad_sch"
-			(at 88.9 89.4846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 38.1 101.6)
-		(size 38.1 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "34676407-f8b5-4930-8f88-66270fca9b4e")
-		(property "Sheetname" "SD"
-			(at 38.1 100.8884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "sd.kicad_sch"
-			(at 38.1 127.5846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
-					(page "8")
+					(page "7")
 				)
 			)
 		)
@@ -9336,6 +9290,98 @@
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 101.6)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7763d637-8f16-4a38-b8a2-59b95eb7fa74")
+		(property "Sheetname" "PL IO"
+			(at 38.1 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io.kicad_sch"
+			(at 38.1 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZYNQ_PI_Zero"
+				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 101.6)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b5020dd1-16e2-433b-a9b3-f80ab051fe68")
+		(property "Sheetname" "PS MIO"
+			(at 88.9 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mio.kicad_sch"
+			(at 88.9 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZYNQ_PI_Zero"
+				(path "/e0cc3273-981b-466d-ad17-67861c989a34"
+					(page "9")
 				)
 			)
 		)

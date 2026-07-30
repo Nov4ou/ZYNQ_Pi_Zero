@@ -11,4 +11,5 @@
 	(lib (name "TPS621351RGXR") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/TPS621351RGXR.kicad_sym") (options "") (descr ""))
 	(lib (name "W25Q256FVEI") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/W25Q256FVEI.kicad_sym") (options "") (descr ""))
 	(lib (name "Xilinx7") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/Xilinx7.kicad_sym") (options "") (descr ""))
+	(lib (name "w25q128jvs") (type "KiCad") (uri "${KIPRJMOD}/Lib/Symbols/w25q128jvs.kicad_sym") (options "") (descr ""))
 )
