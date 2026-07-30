@@ -251,6 +251,7 @@
       "unconnected-(R319-Pad1)",
       "unconnected-(R322-Pad1)",
       "unconnected-(R327-Pad1)",
+      "unconnected-(R301-Pad1)",
       "unconnected-(R318-Pad1)",
       "unconnected-(R311-Pad1)",
       "unconnected-(R315-Pad1)",
@@ -357,7 +358,7 @@
     ],
     "col_widths": [
       116,
-      0,
+      64,
       103,
       71,
       103,
