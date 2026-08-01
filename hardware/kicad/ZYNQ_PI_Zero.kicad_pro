@@ -492,7 +492,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -539,50 +539,61 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.1,
         "name": "DDR_ADDR_CTRL",
         "pcb_color": "rgba(255, 0, 255, 0.502)",
-        "priority": 3,
+        "priority": 5,
         "schematic_color": "rgb(255, 0, 255)",
         "tuning_profile": ""
       },
       {
-        "clearance": 0.4,
         "name": "DDR_CLK",
         "pcb_color": "rgba(255, 153, 0, 0.502)",
-        "priority": 2,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
-        "clearance": 0.1,
         "name": "DDR_DQ0",
         "pcb_color": "rgba(0, 255, 0, 0.502)",
-        "priority": 5,
+        "priority": 7,
         "schematic_color": "rgb(0, 255, 0)",
         "tuning_profile": ""
       },
       {
         "name": "DDR_DQ1",
         "pcb_color": "rgba(0, 255, 255, 0.502)",
-        "priority": 4,
+        "priority": 6,
         "schematic_color": "rgb(0, 255, 255)",
         "tuning_profile": ""
       },
       {
-        "clearance": 0.4,
         "name": "DDR_DQS0",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
-        "clearance": 0.4,
         "name": "DDR_DQS1",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.1191,
+        "name": "HDMI",
+        "pcb_color": "rgba(0, 255, 255, 0.502)",
+        "priority": 1,
+        "schematic_color": "rgb(255, 0, 255)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "SD",
+        "pcb_color": "rgba(255, 255, 0, 0.502)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 0, 255)",
         "tuning_profile": ""
       }
     ],
@@ -637,6 +648,18 @@
       {
         "netclass": "DDR_ADDR_CTRL",
         "pattern": "/DDR/DDR_(BA0|BA1|BA2|CKE|~{CAS}|~{CS})"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "HDMI_(CLK_N|CLK_P|D0_N|D0_P|D1_N|D1_P|D2_N|D2_P)"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "HDMI_(DDC_SCL_3V3|DDC_SDA_3V3|HPD_N_3V3)"
+      },
+      {
+        "netclass": "SD",
+        "pattern": "SD_(CLK|CMD|DATA0|DATA1|DATA2|DATA3)"
       }
     ]
   },
@@ -943,7 +966,7 @@
         "uuid": "e0cc3273-981b-466d-ad17-67861c989a34"
       }
     ],
-    "used_designators": "F601,#FLG201,#FLG401-409,#FLG601,#FLG701-703,#FLG801,IC401,R201-216,R301-329,R401-411,R601-610,R701-706,R801-805,R901-908,R1001-1002,H101-104,L401-403,D201-202,D601-602,D801-802,D901-903,#PWR201-234,#PWR301-326,#PWR401-476,#PWR601-610,#PWR701-715,#PWR801-806,#PWR901-911,#PWR1001-1004,Q201,Q601-603,FB201,FB401-402,FB701,FB801,C201-203,C301-319,C401-466,C701-702,C801-802,C901,C1001,SW801-802,SW901-903,U1,U201-204,U301-302,U401-406,U601-602,U801,U901-902,U1001,J201-203,J401,J501,J601,J701-703,J801-802",
+    "used_designators": "F601,#FLG201,#FLG401-409,#FLG601,#FLG701-703,#FLG801,IC401,R201-216,R301-329,R401-411,R601-610,R701-706,R801-805,R901-908,R1001-1002,H101-104,L401-403,D201-202,D601-602,D801-802,D901-903,#PWR201-234,#PWR301-326,#PWR401-476,#PWR601-610,#PWR701-715,#PWR801-806,#PWR901-911,#PWR1001-1004,Q201,Q601-603,FB201,FB401-402,FB701,FB801,C201-203,C301-319,C401-466,C701-702,C801-802,C901,C1001,SW801-802,SW901-903,U1,U201-204,U301-302,U401-406,U601-602,U801,U901-902,U1001,J201-203,J401,J501,J601-602,J701-703,J801-802",
     "variants": []
   },
   "sheets": [

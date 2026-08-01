@@ -5396,12 +5396,6 @@
 		(uuid "8eab5de4-bf77-465d-87cb-e92676f52474")
 	)
 	(junction
-		(at 220.98 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ad2c969f-da59-4011-a88d-0c0ad05390db")
-	)
-	(junction
 		(at 62.23 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5416,6 +5410,10 @@
 	(no_connect
 		(at 148.59 38.1)
 		(uuid "05b1921d-2283-4b34-80e1-57fcdbd72f04")
+	)
+	(no_connect
+		(at 68.58 38.1)
+		(uuid "28a7a42e-b7e4-4512-9b10-6c20a2862357")
 	)
 	(no_connect
 		(at 148.59 33.02)
@@ -5478,26 +5476,6 @@
 			(type default)
 		)
 		(uuid "11533f1e-6cc4-4822-84a8-11d512834f10")
-	)
-	(wire
-		(pts
-			(xy 203.2 128.27) (xy 207.01 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14eda5b4-9d4b-40e6-9cda-667edc2abde3")
-	)
-	(wire
-		(pts
-			(xy 203.2 133.35) (xy 203.2 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dc12532-588a-4695-abe7-dc5f07de49f7")
 	)
 	(wire
 		(pts
@@ -5601,7 +5579,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 139.7) (xy 264.16 139.7)
+			(xy 233.68 139.7) (xy 238.76 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5631,7 +5609,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 114.3) (xy 259.08 116.84)
+			(xy 233.68 114.3) (xy 233.68 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5681,16 +5659,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 125.73) (xy 220.98 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86a6b8ef-853d-4774-a334-11770c3aa042")
-	)
-	(wire
-		(pts
 			(xy 165.1 128.27) (xy 161.29 128.27)
 		)
 		(stroke
@@ -5698,16 +5666,6 @@
 			(type default)
 		)
 		(uuid "8a1301f7-6d89-43b2-8e6c-94a9f7488155")
-	)
-	(wire
-		(pts
-			(xy 220.98 128.27) (xy 224.79 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96d923b9-85de-4c91-a6bb-8c52c1f67017")
 	)
 	(wire
 		(pts
@@ -5728,16 +5686,6 @@
 			(type default)
 		)
 		(uuid "9e3f4f93-93aa-4897-9ad0-87e90ce11bfd")
-	)
-	(wire
-		(pts
-			(xy 232.41 128.27) (xy 236.22 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0af7058-f12c-41b6-938c-5e03cf6dfd33")
 	)
 	(wire
 		(pts
@@ -5791,33 +5739,13 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 128.27) (xy 220.98 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c12e5767-cb7e-4c9f-b778-7cd32db199e8")
-	)
-	(wire
-		(pts
-			(xy 259.08 134.62) (xy 259.08 139.7)
+			(xy 233.68 134.62) (xy 233.68 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c7731115-81ef-479c-aeaf-61f9ef18c2fa")
-	)
-	(wire
-		(pts
-			(xy 220.98 115.57) (xy 220.98 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d78af183-79ec-47b0-b7bd-d66466a785a8")
 	)
 	(wire
 		(pts
@@ -5881,7 +5809,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 124.46) (xy 259.08 127)
+			(xy 233.68 124.46) (xy 233.68 127)
 		)
 		(stroke
 			(width 0)
@@ -5891,7 +5819,7 @@
 	)
 	(global_label "PS_LED"
 		(shape input)
-		(at 264.16 139.7 0)
+		(at 238.76 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5901,7 +5829,7 @@
 		)
 		(uuid "00b21338-a340-414a-a138-93413e8630f7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 274.0394 139.7 0)
+			(at 248.6394 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6291,30 +6219,6 @@
 			)
 		)
 	)
-	(global_label "PS_KEY"
-		(shape input)
-		(at 236.22 128.27 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e63acaed-5c97-4e81-9d0a-10b36d105879")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.1599 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "QSPI_CLK"
 		(shape input)
 		(at 68.58 53.34 180)
@@ -6459,30 +6363,6 @@
 			)
 		)
 	)
-	(global_label "PS_KEY"
-		(shape input)
-		(at 68.58 38.1 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fa3afaa0-351a-4b01-a767-1772fe15ed3b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.6401 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "QSPI_CS"
 		(shape input)
 		(at 68.58 40.64 180)
@@ -6586,7 +6466,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 259.08 130.81 180)
+		(at 233.68 130.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6597,7 +6477,7 @@
 		(fields_autoplaced yes)
 		(uuid "1af2fe70-27da-4188-9763-1e900e608e61")
 		(property "Reference" "R908"
-			(at 261.62 129.5399 0)
+			(at 236.22 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6608,7 +6488,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 261.62 132.0799 0)
+			(at 236.22 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6619,7 +6499,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 260.858 130.81 90)
+			(at 235.458 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6630,7 +6510,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 130.81 0)
+			(at 233.68 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6641,7 +6521,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 259.08 130.81 0)
+			(at 233.68 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6661,85 +6541,6 @@
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
 					(reference "R908")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 228.6 128.27 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "23faaf6b-e1ca-4167-b44c-0acb70e7c3a2")
-		(property "Reference" "R907"
-			(at 228.6 134.62 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 228.6 132.08 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 228.6 130.048 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 228.6 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c2fde883-5345-4250-ba4a-a863788fa16e")
-		)
-		(pin "2"
-			(uuid "58e6279e-b8f7-45c6-8d95-b2d55d01a9ae")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
-					(reference "R907")
 					(unit 1)
 				)
 			)
@@ -6922,7 +6723,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 259.08 120.65 90)
+		(at 233.68 120.65 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6933,7 +6734,7 @@
 		(fields_autoplaced yes)
 		(uuid "46f2eefd-de5e-4b84-ae33-10b8fcc57798")
 		(property "Reference" "D902"
-			(at 262.89 120.9674 90)
+			(at 237.49 120.9674 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6944,7 +6745,7 @@
 			)
 		)
 		(property "Value" "PS_LED"
-			(at 262.89 123.5074 90)
+			(at 237.49 123.5074 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6955,7 +6756,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 259.08 120.65 0)
+			(at 233.68 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6966,7 +6767,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 120.65 0)
+			(at 233.68 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6977,7 +6778,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 259.08 120.65 0)
+			(at 233.68 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6988,7 +6789,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 259.08 120.65 0)
+			(at 233.68 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7479,88 +7280,6 @@
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
 					(reference "#PWR0903")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 220.98 121.92 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "824e9036-10aa-47d5-9475-1beac2b23907")
-		(property "Reference" "R906"
-			(at 223.52 120.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 223.52 123.1899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 222.758 121.92 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 220.98 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b6f99cb4-2793-418d-9098-d93042de0d04")
-		)
-		(pin "2"
-			(uuid "77e331d3-5821-4721-be75-ce22defcf7ce")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
-					(reference "R906")
 					(unit 1)
 				)
 			)
@@ -8647,83 +8366,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 220.98 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "aa6f270a-d40c-4f10-b7c5-5f7fa7a18cdf")
-		(property "Reference" "#PWR0909"
-			(at 220.98 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 220.98 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 220.98 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d4e94d2c-2196-409b-8a95-5507156de87a")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
-					(reference "#PWR0909")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 59.69 35.56 90)
 		(unit 1)
@@ -8797,163 +8439,6 @@
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
 					(reference "R902")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 212.09 128.27 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b379e215-bbc3-4a8e-bda6-7b45ce0bc635")
-		(property "Reference" "SW902"
-			(at 212.09 120.65 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PS_KEY"
-			(at 212.09 123.19 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
-			(at 212.09 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 212.09 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5ebed548-8a2c-4943-b87f-7c0c964d6166")
-		)
-		(pin "1"
-			(uuid "9e06c8c4-0d77-4054-bf67-3fbf30f64eed")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
-					(reference "SW902")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 203.2 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b530c3fe-cf00-484f-86ba-be6f2998737d")
-		(property "Reference" "#PWR0908"
-			(at 203.2 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 203.2 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 203.2 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 203.2 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9be97a57-e31e-45a2-bf3e-3e386fcd115a")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/b5020dd1-16e2-433b-a9b3-f80ab051fe68"
-					(reference "#PWR0908")
 					(unit 1)
 				)
 			)
@@ -9042,7 +8527,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 259.08 114.3 0)
+		(at 233.68 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9052,7 +8537,7 @@
 		(dnp no)
 		(uuid "ea745009-48fa-4968-9af2-769ba9251512")
 		(property "Reference" "#PWR0910"
-			(at 259.08 118.11 0)
+			(at 233.68 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9063,7 +8548,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 259.08 110.49 0)
+			(at 233.68 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9073,7 +8558,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 259.08 114.3 0)
+			(at 233.68 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9084,7 +8569,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 114.3 0)
+			(at 233.68 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9095,7 +8580,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 259.08 114.3 0)
+			(at 233.68 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
