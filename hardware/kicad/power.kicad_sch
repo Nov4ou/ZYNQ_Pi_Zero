@@ -2239,7 +2239,7 @@
 			(symbol "xc7z007sclg225_1_1"
 				(rectangle
 					(start 5.08 2.54)
-					(end 27.94 -53.34)
+					(end 30.48 -68.58)
 					(stroke
 						(width 0.4)
 						(type solid)
@@ -2249,7 +2249,7 @@
 					)
 				)
 				(text "BANK 0"
-					(at 25.4 -25.4 900)
+					(at 27.94 -33.02 900)
 					(effects
 						(font
 							(size 3 3)
@@ -2259,7 +2259,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -10.16 0)
+					(at 0 -22.86 0)
 					(length 5.08)
 					(name "INIT_B_0"
 						(effects
@@ -2277,7 +2277,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -38.1 0)
+					(at 0 -43.18 0)
 					(length 5.08)
 					(name "VCCBATT_0"
 						(effects
@@ -2295,7 +2295,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -15.24 0)
+					(at 0 -63.5 0)
 					(length 5.08)
 					(name "RSVDGND"
 						(effects
@@ -2313,7 +2313,7 @@
 					)
 				)
 				(pin input line
-					(at 0 0 0)
+					(at 0 -27.94 0)
 					(length 5.08)
 					(name "CFGBVS_0"
 						(effects
@@ -2330,8 +2330,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 -35.56 0)
+				(pin passive line
+					(at 0 -45.72 0)
 					(length 5.08)
 					(name "VCCADC_0"
 						(effects
@@ -2349,7 +2349,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -7.62 0)
+					(at 0 -66.04 0)
 					(length 5.08)
 					(name "GNDADC_0"
 						(effects
@@ -2367,7 +2367,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -17.78 0)
+					(at 0 -50.8 0)
 					(length 5.08)
 					(name "RSVDVCC1"
 						(effects
@@ -2385,7 +2385,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -45.72 0)
+					(at 0 -5.08 0)
 					(length 5.08)
 					(name "VP_0"
 						(effects
@@ -2403,7 +2403,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -48.26 0)
+					(at 0 -35.56 0)
 					(length 5.08)
 					(name "VREFN_0"
 						(effects
@@ -2421,7 +2421,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -25.4 0)
+					(at 0 -10.16 0)
 					(length 5.08)
 					(name "TCK_0"
 						(effects
@@ -2439,7 +2439,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -22.86 0)
+					(at 0 -55.88 0)
 					(length 5.08)
 					(name "RSVDVCC3"
 						(effects
@@ -2457,7 +2457,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -50.8 0)
+					(at 0 -38.1 0)
 					(length 5.08)
 					(name "VREFP_0"
 						(effects
@@ -2475,7 +2475,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -43.18 0)
+					(at 0 -2.54 0)
 					(length 5.08)
 					(name "VN_0"
 						(effects
@@ -2493,7 +2493,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -20.32 0)
+					(at 0 -53.34 0)
 					(length 5.08)
 					(name "RSVDVCC2"
 						(effects
@@ -2511,7 +2511,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -5.08 0)
+					(at 0 0 0)
 					(length 5.08)
 					(name "DXP_0"
 						(effects
@@ -2529,7 +2529,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -12.7 0)
+					(at 0 -25.4 0)
 					(length 5.08)
 					(name "PROGRAM_B_0"
 						(effects
@@ -2547,7 +2547,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -40.64 0)
+					(at 0 -58.42 0)
 					(length 5.08)
 					(name "VCCO_0"
 						(effects
@@ -2565,7 +2565,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -27.94 0)
+					(at 0 -12.7 0)
 					(length 5.08)
 					(name "TDI_0"
 						(effects
@@ -2583,7 +2583,7 @@
 					)
 				)
 				(pin output line
-					(at 0 -30.48 0)
+					(at 0 -15.24 0)
 					(length 5.08)
 					(name "TDO_0"
 						(effects
@@ -2601,7 +2601,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -33.02 0)
+					(at 0 -17.78 0)
 					(length 5.08)
 					(name "TMS_0"
 						(effects
@@ -2619,7 +2619,7 @@
 					)
 				)
 				(pin output line
-					(at 0 -2.54 0)
+					(at 0 -30.48 0)
 					(length 5.08)
 					(name "DONE_0"
 						(effects
@@ -7546,12 +7546,6 @@
 		(uuid "0f17e013-ec5d-4620-92dd-92ee2beab2fa")
 	)
 	(junction
-		(at 57.15 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0fa79235-8761-4cdc-944c-4cbe6eee31c4")
-	)
-	(junction
 		(at 261.62 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7870,12 +7864,6 @@
 		(uuid "913b5190-c211-44d7-8aeb-b4799c36272b")
 	)
 	(junction
-		(at 57.15 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9147d00d-4fd7-4f14-9b86-7edca0695c96")
-	)
-	(junction
 		(at 31.75 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8080,12 +8068,28 @@
 		(uuid "fbda29fa-ddab-4c65-9b55-aba348e4f18c")
 	)
 	(no_connect
+		(at 53.34 157.48)
+		(uuid "3be086c7-6847-49c4-91c9-71d3477fd8cf")
+	)
+	(no_connect
 		(at 123.19 140.97)
 		(uuid "40ef4c0f-c7c2-4a78-a1f8-784defbb2fb4")
 	)
 	(no_connect
 		(at 53.34 175.26)
 		(uuid "4cd85024-3e00-4651-af5b-a96be72d3ab1")
+	)
+	(no_connect
+		(at 53.34 160.02)
+		(uuid "aef02b30-b91b-4ca5-b045-4afcbc5de8bc")
+	)
+	(no_connect
+		(at 53.34 165.1)
+		(uuid "dffbf369-687d-4b3d-8ecd-b291ad55ff26")
+	)
+	(no_connect
+		(at 53.34 162.56)
+		(uuid "f8f0ed95-50dc-4342-a939-4a1a1e904a84")
 	)
 	(no_connect
 		(at 53.34 172.72)
@@ -8140,16 +8144,6 @@
 			(type default)
 		)
 		(uuid "03c1cb86-217a-4588-bb46-d765ae0ccc9a")
-	)
-	(wire
-		(pts
-			(xy 57.15 163.83) (xy 60.96 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03d18520-2bfd-4e71-bc48-45fbf055b8b7")
 	)
 	(wire
 		(pts
@@ -8290,16 +8284,6 @@
 			(type default)
 		)
 		(uuid "0fdbcce2-8ee6-4753-8b52-4bf278df83fe")
-	)
-	(wire
-		(pts
-			(xy 53.34 160.02) (xy 57.15 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10c5c2e8-5a90-4402-8787-678be6f4c14a")
 	)
 	(wire
 		(pts
@@ -8580,16 +8564,6 @@
 			(type default)
 		)
 		(uuid "2ed6ed8f-dc92-4130-bb9e-086b4cdbdabf")
-	)
-	(wire
-		(pts
-			(xy 57.15 158.75) (xy 57.15 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ee9804f-7698-46ef-b320-3e569e399141")
 	)
 	(wire
 		(pts
@@ -9043,16 +9017,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 162.56) (xy 57.15 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c890fa2-cde9-491a-add7-e322b5c2958f")
-	)
-	(wire
-		(pts
 			(xy 78.74 90.17) (xy 96.52 90.17)
 		)
 		(stroke
@@ -9280,16 +9244,6 @@
 			(type default)
 		)
 		(uuid "5b3a0f02-c992-4ee3-b635-88e8e8695fd0")
-	)
-	(wire
-		(pts
-			(xy 53.34 157.48) (xy 57.15 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b5893bf-1139-45a1-a437-68346143b0e8")
 	)
 	(wire
 		(pts
@@ -9743,26 +9697,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 163.83) (xy 57.15 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85c9be44-2a8d-4139-8d29-c91d9840ec0d")
-	)
-	(wire
-		(pts
-			(xy 53.34 162.56) (xy 57.15 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "870caa4d-f061-4ad0-98c5-9f03580996f9")
-	)
-	(wire
-		(pts
 			(xy 248.92 33.02) (xy 241.3 33.02)
 		)
 		(stroke
@@ -9850,16 +9784,6 @@
 			(type default)
 		)
 		(uuid "8c7e7753-c2a5-40a9-b117-d59c4021aec5")
-	)
-	(wire
-		(pts
-			(xy 57.15 158.75) (xy 60.96 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8da7e4e3-5a8f-4693-a14a-f55ede1f7057")
 	)
 	(wire
 		(pts
@@ -10853,16 +10777,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 157.48) (xy 57.15 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0cf1792-b228-4cfb-955d-91a3687b7b85")
-	)
-	(wire
-		(pts
 			(xy 248.92 22.86) (xy 256.54 22.86)
 		)
 		(stroke
@@ -11253,16 +11167,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 165.1) (xy 57.15 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feb6428d-4edc-420a-ba60-a8ce79bad91d")
-	)
-	(wire
-		(pts
 			(xy 148.59 189.23) (xy 148.59 176.53)
 		)
 		(stroke
@@ -11380,54 +11284,6 @@
 			(justify right bottom)
 		)
 		(uuid "ca507aba-3187-455a-bb11-9dc3c430b95b")
-	)
-	(global_label "USB_D+"
-		(shape input)
-		(at 60.96 163.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e9c357f-8bf1-444c-a378-25e5b94a2d96")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.5652 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "USB_D-"
-		(shape input)
-		(at 60.96 158.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e1fb794f-443f-435d-bc83-84ab542efe57")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.5652 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 	)
 	(rule_area
 		(exclude_from_sim no)
@@ -13502,7 +13358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 74.422 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -13584,7 +13440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 24.4348 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -13902,7 +13758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 24.4348 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15151,7 +15007,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 108.9152 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15391,7 +15247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 132.3848 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15627,7 +15483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 227.0252 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -16983,7 +16839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 257.5052 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -19527,7 +19383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 110.7948 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -19686,7 +19542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 204.1652 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -20633,7 +20489,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 216.8652 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -21267,7 +21123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 167.3352 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -21504,7 +21360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 83.312 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -21897,7 +21753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_BGA:Xilinx_CLG225"
+		(property "Footprint" ""
 			(at 154.94 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -22661,7 +22517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 196.5452 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -22896,7 +22752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 108.9152 50.8 0)
 			(hide yes)
 			(show_name no)

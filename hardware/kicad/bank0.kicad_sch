@@ -6156,145 +6156,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+FPGA_VREF"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "+FPGA_VREF"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+FPGA_VREF\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+FPGA_VREF_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+FPGA_VREF_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -6746,12 +6607,6 @@
 		(uuid "a4873507-d744-4c1f-97cb-8ea9bc246e50")
 	)
 	(junction
-		(at 198.12 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b70b8806-c3a7-4008-b85b-daf7eb2df7cb")
-	)
-	(junction
 		(at 55.88 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6826,16 +6681,6 @@
 			(type default)
 		)
 		(uuid "03d1705e-f754-4608-bd49-ce4f243415a7")
-	)
-	(wire
-		(pts
-			(xy 106.68 123.19) (xy 106.68 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07932841-91d2-48de-be95-d2c5c97d5e4e")
 	)
 	(wire
 		(pts
@@ -6936,16 +6781,6 @@
 			(type default)
 		)
 		(uuid "1d22fcb6-5e89-495f-9994-a9bc72b248ce")
-	)
-	(wire
-		(pts
-			(xy 93.98 123.19) (xy 93.98 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d62a268-c354-457e-9e5d-37c029efb12e")
 	)
 	(wire
 		(pts
@@ -7219,7 +7054,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 77.47) (xy 198.12 78.74)
+			(xy 198.12 74.93) (xy 198.12 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7336,16 +7171,6 @@
 			(type default)
 		)
 		(uuid "7bb1625d-ed43-450f-a492-59c353455ce5")
-	)
-	(wire
-		(pts
-			(xy 198.12 77.47) (xy 196.85 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c21d282-3ead-4c1b-a552-ec21c43a8865")
 	)
 	(wire
 		(pts
@@ -7629,16 +7454,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 74.93) (xy 198.12 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ace638eb-6864-4eb2-a0e1-e4a88e62e5ea")
-	)
-	(wire
-		(pts
 			(xy 49.53 52.07) (xy 64.77 52.07)
 		)
 		(stroke
@@ -7826,16 +7641,6 @@
 			(type default)
 		)
 		(uuid "d482e1ae-b657-4398-b0a6-62cd31af3f30")
-	)
-	(wire
-		(pts
-			(xy 93.98 125.73) (xy 106.68 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d588bc03-3237-4270-9820-4afdc6336232")
 	)
 	(wire
 		(pts
@@ -8167,16 +7972,16 @@
 	)
 	(global_label "TDI"
 		(shape input)
-		(at 116.84 161.29 0)
+		(at 99.06 158.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "34140979-1eb9-49b0-aa43-97348a82e3c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.84 161.29 0)
+			(at 99.06 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8353,16 +8158,16 @@
 	)
 	(global_label "TMS"
 		(shape input)
-		(at 99.06 158.75 180)
+		(at 116.84 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "c1510a82-acf3-4cba-88af-ef15bfd8d0f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 158.75 0)
+			(at 116.84 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8597,83 +8402,6 @@
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34/13f5c536-9334-4878-b77d-62113dbf22d4"
 					(reference "J203")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+FPGA_VREF")
-		(at 97.79 152.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "05181308-3808-4b00-a18b-9fb54e590aca")
-		(property "Reference" "#PWR0231"
-			(at 97.79 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+FPGA_VREF"
-			(at 97.79 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 97.79 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+FPGA_VREF\""
-			(at 97.79 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f9fff75c-7265-4251-a33f-b74169184b6e")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/13f5c536-9334-4878-b77d-62113dbf22d4"
-					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -9078,7 +8806,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 106.68 123.19 0)
+		(at 97.79 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9086,9 +8814,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "1f09f3e2-34f6-4731-b4b5-9782eee11bab")
-		(property "Reference" "#PWR0215"
-			(at 106.68 127 0)
+		(uuid "1e33fcef-e4c4-41d7-a773-f2bd4b3e20f3")
+		(property "Reference" "#PWR0214"
+			(at 97.79 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9099,7 +8827,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 106.68 119.38 0)
+			(at 97.79 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9109,7 +8837,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 123.19 0)
+			(at 97.79 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9120,7 +8848,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 123.19 0)
+			(at 97.79 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9131,7 +8859,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 106.68 123.19 0)
+			(at 97.79 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9142,12 +8870,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "58de94ba-7f5c-4bc6-a1ec-57f4111398a0")
+			(uuid "c07d7f6d-5158-4894-a9fd-1e7859568439")
 		)
 		(instances
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34/13f5c536-9334-4878-b77d-62113dbf22d4"
-					(reference "#PWR0215")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -10173,7 +9901,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "390R"
+		(property "Value" "330R"
 			(at 176.53 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10184,7 +9912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 172.212 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -10658,7 +10386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 186.182 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -11357,83 +11085,6 @@
 			(project "ZYNQ_PI_Zero"
 				(path "/e0cc3273-981b-466d-ad17-67861c989a34/13f5c536-9334-4878-b77d-62113dbf22d4"
 					(reference "#PWR0224")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+FPGA_VREF")
-		(at 93.98 123.19 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7e372027-e501-4362-9720-cba7c47e6b3e")
-		(property "Reference" "#PWR0214"
-			(at 93.98 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+FPGA_VREF"
-			(at 93.98 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 93.98 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+FPGA_VREF\""
-			(at 93.98 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "40b57992-53d0-429f-ace3-e34e1ceaaa01")
-		)
-		(instances
-			(project "ZYNQ_PI_Zero"
-				(path "/e0cc3273-981b-466d-ad17-67861c989a34/13f5c536-9334-4878-b77d-62113dbf22d4"
-					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -13154,7 +12805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 54.102 130.81 90)
 			(hide yes)
 			(show_name no)

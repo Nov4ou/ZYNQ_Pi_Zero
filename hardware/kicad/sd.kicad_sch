@@ -2158,7 +2158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Projects:TF-SMD_503398-1892"
+		(property "Footprint" "Project:TF-SMD_TF-115-BCP9_LARG"
 			(at 203.2 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -2169,7 +2169,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/693072010801.pdf"
+		(property "Datasheet" "C720505"
 			(at 173.99 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2890,7 +2890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 204.7748 83.82 0)
 			(hide yes)
 			(show_name no)
